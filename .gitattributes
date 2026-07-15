@@ -1,0 +1,11 @@
+# Force LF line endings on shell scripts and config so Daytona Linux runtime is happy
+*.sh           text eol=lf
+*.j2           text eol=lf
+*.py           text eol=lf
+*.yaml         text eol=lf
+*.yml          text eol=lf
+*.toml         text eol=lf
+*.json         text eol=lf
+*.md           text eol=lf
+.gitignore     text eol=lf
+.gitattributes text eol=lf

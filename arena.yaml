@@ -1,0 +1,17 @@
+name: "mayank-office-qa-agent"
+version: "0.18.0"
+competition: "office-qa"
+
+agent:
+  type: "harness"
+  harness_name: "goose"
+  model: "openrouter/minimax/minimax-m2.7"
+  prompt_template_path: "prompts/officeqa_prompt.j2"
+  mcp_dir: "mcp"
+  skills_dir: "skills"
+
+  config:
+    max_turns: 40
+
+environment:
+  timeout_per_task: 480

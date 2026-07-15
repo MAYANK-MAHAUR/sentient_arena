@@ -1,0 +1,5 @@
+[server]
+entrypoint = "server.py:mcp"
+
+[server.dependencies]
+fastmcp = "==3.3.1"

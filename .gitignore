@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.arena/runs/
+.arena/samples/
+.arena/traces/
+.research/
+.idea/
+.vscode/
+*.swp
+
+# Secrets
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.whl
+*.egg
+
+# Coverage
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.research/
