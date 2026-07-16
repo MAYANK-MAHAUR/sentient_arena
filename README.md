@@ -1,6 +1,7 @@
-# 🏆 Sentient Aregna Competition Winner!
+# 🏆 Sentient Arena Competition Winner!
 
 **I am thrilled to announce that this project officially won the Sentient officeqa Competition!** 🎉
+<img width="452" height="523" alt="image" src="https://github.com/user-attachments/assets/741957f1-5e12-4a00-ae5c-0c7155543d6e" />
 [Check out the official announcement on X](https://x.com/SentientEco/status/2077695151963808237?s=20)
 
 ---
