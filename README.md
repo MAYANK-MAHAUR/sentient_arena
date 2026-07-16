@@ -1,3 +1,10 @@
+# 🏆 Sentient Aregna Competition Winner!
+
+**I am thrilled to announce that this project officially won the Sentient officeqa Competition!** 🎉
+[Check out the official announcement on X](https://x.com/SentientEco/status/2077695151963808237?s=20)
+
+---
+
 # Arena Agent
 
 Scaffolded with `arena init`.
